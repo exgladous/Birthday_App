@@ -1,5 +1,5 @@
 # Birthday App Assignment
-## Members: 
+## Members: Danny Lam, Matthew Gao
 ------
 This is a repository containing the Birthday App assignment.
 
