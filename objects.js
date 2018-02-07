@@ -9,5 +9,5 @@ function getAge() {
         birthdate = new Date(birthday),
         age = Math.floor((today - birthdate) / (365 * 24 * 60 * 60 * 1000));
 
-    return age
+    return "You are" + age + "years of age."
 }
