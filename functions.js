@@ -86,6 +86,6 @@ function checkFormat() {
         return getAge();
     } else {
         document.getElementById("picture").src = "./Images/lordandsaviour.jpg";
-        return "Sorry, but you entered a date in the incorrect format. Please try again.";
+        return "Temple Says: Sorry, but you entered a date in the incorrect format. Please try again.";
     }
 }
